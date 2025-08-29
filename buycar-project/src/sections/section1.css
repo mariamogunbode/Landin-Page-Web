@@ -1,0 +1,46 @@
+.section1-container {
+
+}
+
+.section1-header {
+  background-color: rgb(50, 50, 54);
+  position: absolute;
+  top: 0;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  
+}
+.empty-road {
+  width: auto;
+  margin: auto;
+  position: relative;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  
+}
+
+.lo-go {
+  width: 10px;
+  height: 30px;
+}
+
+.logo-para {
+  color: white;
+  font-size: 20px;
+  font-weight: 700px;
+}
+
+.header-para {
+  color: white;
+  margin-left: 20px;
+}
+
+.contact-div {
+  background-color: green;
+  display: flex;
+}
