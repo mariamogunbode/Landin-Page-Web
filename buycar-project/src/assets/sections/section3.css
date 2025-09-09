@@ -1,0 +1,49 @@
+.link-container {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding-top: 50px;
+
+}
+
+.section3-container {
+  background-color: white;
+  height: 780px;
+}
+
+.car-name-list-container {
+  display: flex;
+}  
+
+
+.mobil-terbaru {
+  font-size: 30px;
+  font-weight: bold;
+  
+}
+
+.link-div {
+  font-size: 20px;
+  
+}
+
+.car-name {
+  margin: 35px 100px 0 100px;
+}
+
+.car-picture {
+
+}
+
+.car-logo-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 55px 100px 0 100px;
+}
+
+
+
+.car-list-container2 {
+  margin-top: 80px;
+}

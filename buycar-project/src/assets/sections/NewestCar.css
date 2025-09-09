@@ -1,0 +1,11 @@
+.home-page-link {
+  padding-top: 100px;
+  margin-left: 1350px;
+  font-size: 20px
+}
+
+.newest-section {
+  display: grid;
+  place-items: center;
+  width: 100vw;
+}

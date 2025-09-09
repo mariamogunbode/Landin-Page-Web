@@ -1,0 +1,126 @@
+
+.section1-container {
+  height: 800px;
+}
+.empty-road-container {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  
+
+}
+
+.car-image {
+ 
+}
+
+.empty-road {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  
+  
+}
+
+
+
+.mobil-car-container {
+
+  display: flex;
+ justify-content: space-between;
+  align-items: center;
+  position: absolute;
+  
+  max-width: 100%;
+  height: 100%;
+  
+  
+}
+
+.car-image-container {
+  
+}
+
+.mobil-container {
+  top: 100px; 
+  margin-left: 100px;
+  margin-right: 200px;
+}
+
+.mobil-para1 {
+  color: white;
+  font-size: 60px;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+}
+.mobil-para2 {
+  color: white;
+  font-size: 60px;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 5px;
+}
+
+.mobil-para3 {
+  color: white;
+  font-size: 60px;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 5px;
+}
+
+.mobil-para4 {
+  color: white;
+  font-size: 25px;
+  margin-left: 80px;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 0;
+  margin-left: 5px;
+}
+.mobil-para5 {
+  color: white;
+  font-size: 25px;
+  margin-left: 100px;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 5px;
+}
+
+.mobil-para6 {
+  color: white;
+  font-size: 25px;
+  margin-left: -100px;
+  margin-top: 0;
+  margin-left: 5px;
+}
+
+.button-text-container {
+  display: flex;
+  align-items: center;
+}
+
+.button {
+  background-color: rgb(39, 4, 192);
+  color: white;
+  margin-right: 40px;
+  font-size: 20px;
+  border: none;
+  border-radius: 5px;
+}
+
+.text {
+  font-size: 20px;
+  color: white;
+}
+
+
+
+.vector-image {
+  position: absolute;
+  top: 670px;
+  width: 300px;
+  left: -150px;
+  opacity: 0.5;
+}

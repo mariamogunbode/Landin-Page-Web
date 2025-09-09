@@ -1,11 +1,17 @@
-import { Section1 } from './sections/section1';
+import { Routes, Route } from 'react-router';
+import { EntireApp } from './assets/sections/EntireApp'
+import { NewestCar } from './assets/sections/NewestCar'
 import './App.css'
 
 function App() {
 
   return (
     <>
-      <Section1 />
+      <Routes>
+        <Route path="/" element={<EntireApp />} />
+        <Route path="cars" element={<NewestCar />} />
+      </Routes>
+        
       
     </>
   )

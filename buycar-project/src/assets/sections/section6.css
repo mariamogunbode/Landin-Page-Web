@@ -1,0 +1,81 @@
+.section6-container {
+  background-color: rgb(26, 25, 25);
+    margin-top: 0
+}
+
+.headline-container {
+  display: flex;
+  color: white;
+  margin-right: 100px;
+  margin-left: 100px;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  margin-top: 0;
+}
+
+.buy-car {
+  width: 800px;
+  color: rgb(92, 90, 90);
+  font-weight: bold;
+  font-size: 30px;
+
+}
+
+.peru-sahaan {
+  
+  color: rgb(92, 90, 90);
+  font-weight: bold;
+  font-size: 30px;
+  width: 300px;
+}
+
+.penge-tahuan {
+  
+  color: rgb(92, 90, 90);
+  font-weight: bold;
+  font-size: 30px;
+  width: 300px;
+}
+
+.pembe-lian {
+  
+  color: rgb(92, 90, 90);
+  font-weight: bold;
+  font-size: 30px;
+  width: 300px;
+  
+}
+
+.text-div {
+  font-size: 20px;
+}
+
+.all-divs-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
+.BuyCar-container {
+  color: white;
+  width: 800px;
+}
+
+
+.pembelian-container {
+  width: 300px;
+  color: white;
+  
+}
+
+.perusahaan-container {
+  width: 300px;
+   color: white
+}
+
+.pengetahuan-container {
+  width: 300px;
+  color: white;
+}
