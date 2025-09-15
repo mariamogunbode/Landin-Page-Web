@@ -13,14 +13,16 @@
 .second-tire {
   position: absolute;
   opacity: 0.5;
+  right: -120px;
   margin-left: 1400px;
   margin-top: 250px;
+  width: 210px;
 }
 
 .mengapa-para { 
   color: white;
   margin-top: 0;
-  font-size: 30px;
+  font-size: 1.5rem;
   padding-top: 50px;
   text-align: center;
  
@@ -31,10 +33,11 @@
   display: flex;
   flex: 100%;
   align-items: center;
+  justify-content: center;
 }
 
 .smiley-para {
   color: white;
-  font-size: 25px;
+  font-size: 1rem;
   text-align: center;
 }

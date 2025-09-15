@@ -1,11 +1,15 @@
 .home-page-link {
   padding-top: 100px;
-  margin-left: 1350px;
-  font-size: 20px
+  margin-right: 980px;
+  font-size: 1rem;
 }
 
 .newest-section {
   display: grid;
   place-items: center;
   width: 100vw;
+}
+
+.car-list-container2 {
+  align-items: center;
 }

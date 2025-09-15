@@ -1,11 +1,12 @@
 .carpointer-container {
- position: relative;
+position: relative;
  height: 200px;
 }
 
 .car-pointer {
-  width: 100%;
   height: 100%;
+  width: 100%;
+  
   
 }
 
@@ -13,14 +14,14 @@
   position: absolute;
   display: flex;
   justify-content: space-between;
-top: 90px;
+  top: 70px;
   margin-right: 100px;
   margin-left: 100px;
 }
 
 .text-container {
   color: white;
-  font-size: 22px;
+  font-size: 1.3rem;
    margin-right: 30px;
 }
 

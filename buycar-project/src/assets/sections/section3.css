@@ -9,7 +9,7 @@
 
 .section3-container {
   background-color: white;
-  height: 780px;
+ 
 }
 
 .car-name-list-container {
@@ -39,7 +39,8 @@
 .car-logo-container {
   display: flex;
   justify-content: space-between;
-  margin: 55px 100px 0 100px;
+  margin: 55px 100px 25px 100px;
+  height: 90px;
 }
 
 

@@ -10,9 +10,11 @@ export function Section4() {
           {bagaimana.map((bagai) => {
             return (
               <>
+                <div className="paragraph-author">
                 <div className="bagai-paragraph">
                   <div>{bagai.message}</div>
                   <div className="bagai-authour">{bagai.author}</div>
+                </div>
                 </div>
 
               </>
