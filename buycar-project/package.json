@@ -2,8 +2,9 @@
   "name": "buycar-project",
   "private": true,
   "version": "0.0.0",
-  "type": "module",
   "homepage": "https://mariamogunbode.github.io/Landin-Page-Web",
+  "type": "module",
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
