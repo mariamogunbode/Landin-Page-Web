@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://mariamogunbode.github.io/BUYCAR-PROJECT",
+  "homepage": "https://mariamogunbode.github.io/Landin-Page-Web",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
