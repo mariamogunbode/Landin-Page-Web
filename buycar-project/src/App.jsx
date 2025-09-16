@@ -6,10 +6,12 @@ import './App.css'
 function App() {
 
   return (
+    <div className="container">
     <Routes>
       <Route path="/" element={<EntireApp />} />
       <Route path="/cars" element={<NewestCar />} />
     </Routes>
+    </div>
   );
 }
 
