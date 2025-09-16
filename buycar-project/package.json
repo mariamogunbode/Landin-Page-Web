@@ -4,7 +4,6 @@
   "version": "0.0.0",
   "homepage": "https://mariamogunbode.github.io/Landin-Page-Web",
   "type": "module",
-
   "scripts": {
     "dev": "vite",
     "build": "vite build",
