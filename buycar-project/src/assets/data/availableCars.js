@@ -16,7 +16,7 @@ export const availableCars = [
       {Name: 'Subaru WRX'},
       {Name: 'Cherry Omoda 5'}
     ],
-      image: '/images/Cross.png'
+      image: 'images/Cross.png'
   }, 
   {
     id: 'id2',
@@ -27,7 +27,7 @@ export const availableCars = [
       {Name: 'Subaru WRX'},
       {Name: 'Cherry Omoda 5'}
     ],
-    image: '/images/Grand.png' 
+    image: 'images/Grand.png' 
   },
   {
     id: 'id3',
@@ -38,7 +38,7 @@ export const availableCars = [
       {Name: 'Subaru WRX',},
       {Name: 'Cherry Omoda 5',}
     ],
-    image: '/images/S-Presso.png'
+    image: 'images/S-Presso.png'
   },
   {
     id: 'id4',
@@ -49,7 +49,7 @@ export const availableCars = [
       {Name: 'Subaru WRX'},
       {Name: 'Cherry Omoda 5'}
     ],
-    image: '/images/WRX.png'
+    image: 'images/WRX.png'
   },
 
   {
@@ -61,6 +61,6 @@ export const availableCars = [
       {Name: 'Subaru WRX'},
       {Name: 'Cherry Omoda 5'}
     ],
-    image: '/images/Omoda.png'
+    image: 'images/Omoda.png'
   }
 ]
