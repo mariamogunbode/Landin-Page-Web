@@ -20,14 +20,16 @@ export function NewestCar() {
            
               return (
                 <>
-                  <div key={car.id} className="car-name-list-container">
-                    <div style={{ display: 'flex', flexDirection: 'column', marginLeft: '100px',
-                      paddingRight: '100px',
+                  <div key={car.id} className="car-name-list-container2">
+                    <div style={{ display: 'flex', flexDirection: 'column', marginLeft: '30px', marginBottom: '50px',
+                    
+                      
                       
                      }}>
                       {car.Carnames.map((carName, carIndex) => (
                         <span
                           key={carIndex}
+                          className="car-name-list"
                           style={
                             carName.Name.toLowerCase().includes(imageName.replace('Cross', '').replace('Grand', '').replace('S-Presso', '').replace('WRX', '').replace('Omoda', '').trim())
                               ?
@@ -48,8 +50,10 @@ export function NewestCar() {
                           {carName.Name}</span>
                       ))}
                     </div>
+                    <div className="car-picture-container">
                     <img src={car.image} alt={car.image}
                       className="car-picture" />
+                      </div>
                   </div>
                 </>
               );

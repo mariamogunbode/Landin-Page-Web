@@ -15,7 +15,8 @@ export function Section2() {
         {mengapa.map((detail) => {
           return (
             <div className="smiley-para">
-          <img src={detail.image}/>
+          <img src={detail.image} 
+          className="smiley-image"/>
           <p>{detail.sentence}</p>
           </div>
           )

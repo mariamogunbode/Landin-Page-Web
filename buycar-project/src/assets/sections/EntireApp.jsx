@@ -9,9 +9,10 @@ import { Section5 } from './section5';
 import { Section6 } from './section6';
 import { Section7 } from './section7';
 import EmptyRoad from '../../assets/images/empty-road-floor.png';
-import  CrossCar  from '../../assets/images/CrossCar.png'
-import Vector from '../../assets/images/Vector.png'
-import './EntireApp.css'
+import  CrossCar  from '../../assets/images/CrossCar.png';
+import Vector from '../../assets/images/Vector.png';
+import './EntireApp.css';
+
 
 
 export function EntireApp() {

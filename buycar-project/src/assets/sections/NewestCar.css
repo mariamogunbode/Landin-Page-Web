@@ -1,16 +1,22 @@
 .home-page-link {
-  padding-top: 100px;
-  margin-right: 980px;
   font-size: 1rem;
+   margin-top: 100px;
 }
 
-.newest-section {
+.car-name-list-container2 {
   display: grid;
-  place-items: center;
-  width: 100vw;
+  grid-template-columns:  repeat(auto-fit,minmax(200px, 1fr));
   background-color: white;
+  justify-content: center;
+  align-items: center;
 }
 
 .car-list-container2 {
   align-items: center;
 }
+
+.car-picture {
+  max-width: 100%;
+  height: auto;
+}
+

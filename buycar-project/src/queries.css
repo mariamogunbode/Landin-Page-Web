@@ -1,0 +1,332 @@
+/* LG-SMALL LAPTOPS: 1024px - 1280px*/
+
+@media (max-width: 80rem) {
+
+  .mobil-para1,
+  .mobil-para2 {
+    font-size: 1.7rem;
+  }
+  .mobil-para5,
+  .mobil-para6,
+  .mobil-para4 {
+    font-size: 1rem;
+  }
+
+  .car-name-list {
+  width: 300px;
+}  
+
+  .mobil-container {
+    margin-right: 70px;
+    width: 300px;
+  }
+
+  .mobil-container {
+    margin-top: -70px;
+  }  
+
+  .header-para-container {
+    font-size: 0.8rem;
+  }
+  
+  .button,
+  .text {
+    font-size: 1rem;
+  }
+
+  .button {
+    margin-right: 10px;
+    padding: 10px;
+  }
+}
+
+.car-logo {
+  width: 100px;
+  padding: 10px;
+}
+
+.text-container {
+  font-size: 1.1rem;
+}
+
+.button-container {
+  flex-grow: 1;
+  width: 400px;
+}
+
+@media (max-width: 64rem) {
+  .header-para {
+  margin-left: 40px;
+}
+
+.contact-div {
+  margin-left: 50px;
+  
+}
+
+.number {
+  font-size: 0.8rem;
+}
+
+.mobil-car-container {
+  display: block;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.mobil-container {
+  display: block;
+  margin-top: 20px;
+}
+
+.button-text-container {
+  position: absolute;
+  bottom: 280px;
+  left: 10px;
+}
+
+.car-image {
+    width: 80%;
+    height: auto;
+    margin-left: 180px;
+    margin-top: -100px;
+  }
+
+  .mengapa-para { 
+  font-size: 1.3rem;
+}
+
+ .car-logo {
+  width: 60px;
+  padding: 10px;
+} 
+
+.bagaimana-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(4, auto);
+    column-gap: 10px !important;
+    row-gap: 10px;
+    gap: 10px;
+    padding-bottom: 20px;
+  }
+
+  .bagai-paragraph {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    border: 3px solid #ddd;
+  }
+
+  .text-button-container {
+    flex-wrap: wrap;
+  }  
+  .text-container {
+  color: white;
+  font-size: 1rem;
+   margin-right: 30px;
+   margin-bottom: 20px;
+   flex-grow: 1;
+   text-align: center;
+}
+
+.button-container {
+ width: 400px !important;
+}
+
+.BuyCar-container {
+  flex-basis: 100%;
+  margin-bottom: 20px;
+}
+
+.peru-sahaan,
+.penge-tahuan,
+.pembe-lian {
+ flex-basis: auto;
+}
+
+.all-divs-container {
+flex-wrap: wrap;
+}
+
+.text-icon-container {
+  margin-right: 110px;
+ 
+}
+
+.icon-button {
+  display: inline-flex;
+  border-radius: 150px; 
+align-items: center;
+}
+
+}
+
+@media (max-width: 43rem) {
+  .logo-container {
+
+}
+
+.lo-go {
+  width: 20px;
+  height: 35px;
+  width: 100%;
+}
+.logo-para {
+  font-size: 1.5rem;
+}
+
+.contact-div {
+
+}
+
+.header-para-container {
+  display: none;
+}
+
+.section1-header {
+  width: 100%;
+}
+
+.mobil-car-container {
+  display: flex;
+  flex-direction: column;
+
+}
+
+.mobil-container {
+  flex-basis: 100%;
+  width: auto;
+  margin: 0;
+  text-align: center;
+  margin-top: 50px;
+}
+.car-image {
+  margin: 0;
+  margin-left: 40px;
+  width: 80%;
+}
+
+.vector-image {
+  width: 200px;
+}
+
+.car-image-container {
+  margin-bottom: 80px;
+  
+}
+
+.mobil-para2,
+.mobil-para3 {
+  display: inline-block;
+  font-size: 1.8rem;
+}
+
+.mobil-para5,
+.mobil-para6 {
+  display: inline-block
+}
+
+.button-text-container {
+position: static;
+justify-content: center;
+}
+
+.smiley-para-container {
+  flex-direction: column;
+}
+
+.smiley-image {
+  width: 24px;
+}
+
+.blended-background {
+  height: 450px;
+}
+
+.second-tire {
+ 
+  right: -120px;
+  margin-left: 1400px;
+  margin-top: 300px;
+  width: 200px;
+}
+
+.car-logo {
+  width: 40px;
+}
+
+.bagaimana-container {
+  display: flex;
+  flex-direction: column;
+  margin-right: 30px;
+  margin-left: 30px;
+}
+
+.text-icon-container {
+  margin-right: 30px;
+  margin-left: 30px;
+}
+
+.all-divs-container {
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.text-button-container {
+  margin-right: 30px;
+  margin-left: 30px;
+}
+
+.car-name-list-container {
+  display: flex;
+  align-items: center;
+  margin-top: -20px; 
+}
+.car-name-list-container {
+  display: flex;
+  align-items: center;
+  margin-top: -20px; 
+}
+
+.link-container {
+  margin-right: 30px;
+  margin-left: 30px;  
+}
+
+.car-name-list-container2 {
+  border-top: 1px solid black;
+}
+
+ .car-name-list {
+  width: 300px;
+ 
+}
+
+
+.car-name-list-container {
+  display: grid;
+  grid-template-columns:  repeat(auto-fit,minmax(200px, 1fr));
+  background-color: white;
+  justify-content: center;
+  align-items: center;
+ margin-left: -65px;
+}
+
+.car-picture {
+  width: 100%;
+  height: auto;
+  flex-shrink: 0;
+}
+
+.home-page-link {
+  font-size: 1rem;
+ 
+}
+
+
+
+}
+

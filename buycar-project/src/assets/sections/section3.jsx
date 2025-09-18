@@ -21,10 +21,12 @@ export function Section3() {
               return (
                 <>
                   <div key={car.id} className="car-name-list-container">
-                    <div style={{ display: 'flex', flexDirection: 'column', marginLeft: '100px' }}>
+                    <div style={{ display: 'flex', flexDirection: 'column', 
+                      marginLeft: '100px' }}>
                       {car.Carnames.map((carName, carIndex) => (
                         <span
                           key={carIndex}
+                          className="car-name-list"
                           style={
                             carName.Name.toLowerCase().includes(imageName.replace('Crosscar', '').replace('GrandVitara', '').replace('SPresso', '').replace('WRX', '').replace('Omoda', '').trim())
                               ?
@@ -45,8 +47,10 @@ export function Section3() {
                           {carName.Name}</span>
                       ))}
                     </div>
+                    <div className="car-picture-container">
                     <img src={car.image} alt={car.image}
                       className="car-picture" />
+                      </div>
                   </div>
                 </>
               );
@@ -58,7 +62,8 @@ export function Section3() {
           {carLogo.map((carlogo) => {
             return (
               <div key={carlogo.id}>
-                <img src={carlogo.logo} />
+                <img src={carlogo.logo}
+                className="car-logo" />
               </div>
             );
           })}
