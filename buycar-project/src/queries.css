@@ -141,10 +141,13 @@
   margin-bottom: 20px;
 }
 
-.peru-sahaan,
-.penge-tahuan,
-.pembe-lian {
+
+
+.perusahaan-container,
+.pengetahuan-container,
+.pembelian-container {
  flex-basis: auto;
+ margin-bottom: 20px;
 }
 
 .all-divs-container {
@@ -242,6 +245,10 @@ justify-content: center;
   width: 24px;
 }
 
+.smiley-para {
+  font-size: 0.7rem
+}
+
 .blended-background {
   height: 450px;
 }
@@ -250,12 +257,25 @@ justify-content: center;
  
   right: -120px;
   margin-left: 1400px;
-  margin-top: 300px;
+  margin-top: 340px;
   width: 200px;
+}
+
+.mobil-terbaru {
+  font-size: 1.5rem;
+}
+
+.link-div {
+  font-size: 0.8rem;
+  
 }
 
 .car-logo {
   width: 40px;
+}
+
+.logo-container {
+  margin-left: 50px;
 }
 
 .bagaimana-container {
@@ -326,7 +346,31 @@ justify-content: center;
  
 }
 
+.car-logo-container {
+  margin-left: 30px;
+}
 
+.mengapa-para { 
+  font-size: 1rem; 
+}
+
+.text-container {
+  font-size: 0.9rem;
+}
+
+.section7-container {
+  height: 220px;
+}
+
+.icon-button {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 5px;
+}
+
+.text-icon-container {
+  align-items: start;
+}
 
 }
 
