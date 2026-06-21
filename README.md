@@ -6,7 +6,7 @@ A responsive landing page designed to provide a clean and engaging user experien
 
 Features
 
-- 2 pages design to
+- 2 pages design 
 - Responsive layout
 - Modern design
 - Clean user interface
