@@ -2,7 +2,7 @@ Landing Page Project
 
 ## 📸 Screenshot
 
-![Landing Page UI](landin-Page.png)
+![Landing Page UI](Landin-Page.png)
 
 Overview
 
