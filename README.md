@@ -4,6 +4,10 @@ Landing Page Project
 
 ![Landing Page UI](Landin-Page.png)
 
+## 📸 Screenshot
+
+![Landing Page UI](Landin-Page2.png)
+
 Overview
 
 A responsive landing page designed to provide a clean and engaging user experience across devices.
